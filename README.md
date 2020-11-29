@@ -11,13 +11,13 @@ Qキーを押すと動作のチェック画面になります。向いてる角�
 Wキーを押すと回転速度をバーの長さで示します。白が適正速度、赤が速すぎる速度域で有ることを示します。
 
 #### [R]動画リセット
-	
+  
 ## 動画の差し替え方
 (1)「/home/pi/openFrameworks/apps/myApps/epomeOMXPlayer/bin/data/movie/」  
 の下に動画データを追加します。  
   
 (2)「/home/pi/openFrameworks/apps/myApps/epomeOMXPlayer/bin/data/loadMovie.txt」  
 を追加した動画データのパスに書き換えます。
-	
+  
 ## 注意点
 ・ビットレートの高い動画はフレームレートが遅延し、「3D映像」のカクつく可能性があります。カクつきを抑えたい場合は、フレームレートやサイズを落としてください。
